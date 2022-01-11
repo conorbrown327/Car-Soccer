@@ -1,4 +1,4 @@
-# My solution to Assignment 2
+# My solution to Car Soccer
 
 For ball collisions with the walls and other boundaries, based on the given wall it bounces off of that vector’s x, y or z coordinate is reversed, multiplied by -1.
 
